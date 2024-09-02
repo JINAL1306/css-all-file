@@ -1,0 +1,36 @@
+
+* body {margin: 0;
+padding: 0;
+box-sizing: border-box;
+background-color: rgba(245, 237, 237, 0.952);}
+
+main {padding: 30px;
+    display: flex;
+gap: 30px;}
+.one
+ {background-color: white;}
+/* main .one-image {height: 100px;} */
+.one-image image {height: 100px;
+width: 100px;}
+
+.one-image h2
+ {text-align: center;}
+
+ul 
+{list-style: none;}
+
+.info
+ {padding: 5px;}
+
+.info li 
+{padding: 6px;}
+
+.interests i 
+{height: 30px;
+width: 30px;
+padding: 10px;
+margin: 10px;
+border: 1px solid black;
+border-radius: 50%;
+font-size: large;
+text-align: center;}

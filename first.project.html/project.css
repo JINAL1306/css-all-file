@@ -1,0 +1,14 @@
+* {margin: 0;
+padding: 0;
+box-sizing: border-box;}
+/* .root {} */
+header {
+    padding: 20px;
+
+    display: flex;
+    justify-content: space-between; 
+}
+header.img {height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    border-radius: 50%;}
